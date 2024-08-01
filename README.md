@@ -27,6 +27,9 @@ Performance score: 0.97
 
 Note: a collection of images of handwritten numbers used in this project is called MNIST database of handwritten digits, and is available from the neural network researcher Yann LeCun’s website ​http://yann.lecun.com/exdb/mnist/.​
 
+Training​ set ​http://www.pjreddie.com/media/files/mnist_train.csv
+
+Test​ set ​http://www.pjreddie.com/media/files/mnist_test.csv
 
 
 
